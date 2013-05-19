@@ -45,3 +45,6 @@ nosetests.xml
 .*.sw[a-z]
 *.un~
 Session.vim
+
+# secret files
+passwords.txt
